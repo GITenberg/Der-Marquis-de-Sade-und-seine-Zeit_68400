@@ -1,0 +1,34 @@
+_repo: Der-Marquis-de-Sade-und-seine-Zeit_68400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloch, Iwan
+    birthdate: 1872
+    deathdate: 1922
+    gutenberg_agent_id: '51207'
+    url: http://www.gutenberg.org/2009/agents/51207
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Iwan_Bloch
+    - https://en.wikipedia.org/wiki/Iwan_Bloch
+description: ''
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68400'
+language: de
+pgterms:marc905: 20180217080304bloch
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :Verlag von H. Barnsdorf,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sade, marquis de, 1740-1814'
+- !lcsh 'Paraphilias'
+- !lcc 'HQ'
+- GITenberg
+title: Der Marquis de Sade und seine Zeit.
+url: http://www.gutenberg.org/ebooks/68400
