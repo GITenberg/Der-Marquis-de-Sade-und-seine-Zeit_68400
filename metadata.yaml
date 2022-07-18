@@ -1,5 +1,8 @@
 _repo: Der-Marquis-de-Sade-und-seine-Zeit_68400
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68400-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloch, Iwan
@@ -11,6 +14,8 @@ creator:
     - https://de.wikipedia.org/wiki/Iwan_Bloch
     - https://en.wikipedia.org/wiki/Iwan_Bloch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68400#Der-Marquis-de-Sade-und-seine-Zeit
 gutenberg_issued: '2022-06-25'
 identifiers:
   gutenberg: '68400'
